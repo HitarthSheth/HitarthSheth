@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @HitarthSheth - 18 y/o high school student.
-- 👀 I’m interested in using my coding skills to help bring a change in education space.
-- 🌱 I’m currently learning more about R; Unity for AR & VR applications.   
+- 👋 Hi, I’m @HitarthSheth - final year student at MPSTME, NMIMS Mumbai.
 - 📫 You can connect with me on Twitter @HitarthGSheth
 
 <!---
